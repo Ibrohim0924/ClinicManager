@@ -66,11 +66,7 @@ src/
 
 Repositoriyani clone qiling:
 
-git clone https://github.com/username/appointment-api.git
-cd appointment-api
-
-
-Kerakli paketlarni o‘rnating:
+https://github.com/Ibrohim0924/ClinicManager.git
 
 Loyihani ishga tushiring:
 
